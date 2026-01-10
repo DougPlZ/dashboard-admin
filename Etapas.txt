@@ -1,0 +1,144 @@
+🎯 PROJETO IDEAL (NÍVEL INTERMEDIÁRIO – FRONT-END CLT)
+Dashboard de Gestão de Usuários e Tarefas
+
+Algo que parece sistema interno de empresa.
+
+🧩 VISÃO GERAL
+
+Um sistema onde um “admin” consegue:
+
+Visualizar usuários
+
+Gerenciar tarefas
+
+Acompanhar status
+
+Tudo simulado no front-end.
+
+📄 TELAS DO PROJETO
+1️⃣ Login (simulado)
+
+Email + senha
+
+Validação simples
+
+Redireciona para o dashboard
+
+👉 RH vê: fluxo de aplicação
+
+2️⃣ Dashboard (home)
+
+Cards com:
+
+Total de usuários
+
+Total de tarefas
+
+Tarefas concluídas
+
+Tarefas pendentes
+
+👉 RH vê: organização e leitura de dados
+
+3️⃣ Listagem de usuários
+
+Tabela de usuários
+
+Campo de busca
+
+Filtro por status (ativo/inativo)
+
+Botão “ver detalhes”
+
+👉 RH vê: uso real de tabelas
+
+4️⃣ Detalhes do usuário
+
+Dados básicos
+
+Lista de tarefas vinculadas
+
+Status
+
+5️⃣ Listagem de tarefas
+
+Criar tarefa (modal simples)
+
+Editar
+
+Marcar como concluída
+
+Filtro por status
+
+👉 RH vê: CRUD no front-end
+
+🛠️ TECNOLOGIAS (recomendado)
+
+React
+
+JavaScript (ou TypeScript se preferir)
+
+CSS simples ou Tailwind
+
+API pública (ex: JSONPlaceholder) ou dados mockados
+
+🧠 O QUE ISSO MOSTRA AO RH
+
+✔️ Estrutura de projeto
+✔️ Componentização
+✔️ Organização de estado
+✔️ Código limpo
+✔️ Capacidade de entregar algo completo
+
+Isso grita:
+
+“Ele consegue trabalhar num time.”
+
+❌ O QUE EVITAR
+
+🚫 animações exageradas
+🚫 bibliotecas desnecessárias
+🚫 gráficos complexos
+🚫 banco de dados
+
+📁 ESTRUTURA DE PASTAS (exemplo)
+src/
+ ├─ components/
+ ├─ pages/
+ ├─ services/
+ ├─ hooks/
+ ├─ styles/
+ └─ utils/
+
+📘 README (RH AMA ISSO)
+
+Deve explicar:
+
+Objetivo do projeto
+
+Tecnologias
+
+Funcionalidades
+
+Como rodar
+
+Decisões técnicas
+
+🔥 Próximo passo (agora)
+
+Se você topar esse projeto, eu faço o próximo nível de guia:
+
+👉 PARTE 2.1
+
+Escopo fechado (checklist)
+
+API escolhida
+
+Layout base
+
+Ordem de desenvolvimento
+
+Plano de commits
+
+Responde só isso:
+React com JavaScript ou TypeScript?

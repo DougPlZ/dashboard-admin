@@ -1,0 +1,95 @@
+PASSO 1 — Criar o projeto
+
+No terminal:
+
+npm create vite@latest dashboard-gestao-usuarios
+
+
+Escolha:
+
+React
+
+JavaScript
+
+Depois:
+
+cd dashboard-gestao-usuarios
+npm install
+npm run dev
+
+
+✔️ Abra no navegador e veja se está rodando.
+
+🗃️ PASSO 2 — Estrutura de pastas (faça agora)
+
+Dentro de src/, crie:
+
+components/
+pages/
+services/
+styles/
+utils/
+
+
+Não coloque nada ainda, só crie.
+
+🧠 PASSO 3 — Primeiro commit (MUITO IMPORTANTE)
+git init
+git add .
+git commit -m "Inicialização do projeto com Vite + React"
+
+
+👉 RH AMA commits limpos.
+
+📄 PASSO 4 — README inicial (simples)
+
+Crie README.md com:
+
+# Dashboard de Gestão de Usuários
+
+Aplicação front-end desenvolvida em React com foco em simular um sistema administrativo de gestão de usuários e tarefas.
+
+## Tecnologias
+- React
+- JavaScript
+- Vite
+
+## Objetivo
+Demonstrar organização de código, componentização e boas práticas em aplicações front-end.
+
+
+Depois:
+
+git add README.md
+git commit -m "Adiciona README inicial do projeto"
+
+⛔ NÃO FAÇA AINDA
+
+🚫 Login
+🚫 Tabelas
+🚫 Estilo
+🚫 API
+
+A gente constrói camada por camada.
+
+✅ Quando parar
+
+Pare exatamente aqui.
+
+👉 Próximo passo (PARTE 2.2)
+
+Quando você terminar os passos acima, me diga:
+
+“Projeto criado e primeiro commit feito”
+
+Aí eu te entrego:
+
+Layout base do dashboard
+
+Estrutura de páginas
+
+Roteamento
+
+Segundo plano de commits
+
+Bora, dev. Agora é execução 💪
