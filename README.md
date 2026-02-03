@@ -1,45 +1,4 @@
-# Dashboard Administrativo – React
 
-Este projeto é um **painel administrativo (Admin Dashboard)** desenvolvido com **React.js**, focado em demonstrar organização de layout, navegação entre páginas e estrutura de um sistema real de gestão.
-
-O objetivo do projeto é **apresentação de portfólio**, mostrando domínio de conceitos fundamentais de Front-end moderno.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **React.js** – Construção da interface
-- **React Router DOM** – Gerenciamento de rotas
-- **Context API** – Gerenciamento de estado global
-- **CSS Moderno (Vanilla CSS)** – Estilização sem bibliotecas externas
-- **Vite** – Ambiente de desenvolvimento rápido
-
----
-
-## 📋 Funcionalidades
-
-- **Layout Administrativo Completo**
-  - Sidebar fixa para navegação
-  - Header superior com menu de usuário e dropdown
-
-- **Navegação por Rotas**
-  - Dashboard (Home)
-  - Usuários
-  - Tarefas / Ordens de Serviço
-
-- **Gestão de Ordens de Serviço (OS)**
-  - Estado centralizado via Context API
-  - Estrutura preparada para integração com API futuramente
-
-- **Interface Limpa e Responsiva**
-  - Cards de métricas (KPIs)
-  - Tabelas organizadas
-  - Lista de tarefas com status
-  - Componentes reutilizáveis
-
----
-
-## 📁 Estrutura do Projeto
 
 # Dashboard Administrativo – React
 
